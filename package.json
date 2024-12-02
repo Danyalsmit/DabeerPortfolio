@@ -1,0 +1,45 @@
+{
+  "name": "developer-portfolio",
+  "version": "1.0.0",
+  "description": "Software Developer Portfolio Template built with react.js bootstrap that helps you showcase your work and skills as a software developer.",
+  "main": "index.js",
+  "repository": "https://github.com/AhsanKhan98/ahsan-portfolio.git",
+  "author": " Khan",
+  "license": "MIT",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@apollo/client": "^3.8.8",
+    "@emailjs/browser": "^3.11.0",
+    "@iconify/react": "^4.1.1",
+    "@next/eslint-plugin-next": "14.0.3",
+    "@vercel/analytics": "^1.1.1",
+    "bootstrap": "^5.3.2",
+    "classnames": "^2.3.2",
+    "graphql": "^16.8.1",
+    "headroom.js": "^0.12.0",
+    "react-lottie": "^1.2.3",
+    "moment": "^2.29.4",
+    "next": "14.0.3",
+    "nouislider": "^15.7.1",
+    "particles-bg": "^2.5.5",
+    "prop-types": "^15.8.1",
+    "react": "18.2.0",
+    "react-datetime": "^3.2.0",
+    "react-dom": "18.2.0",
+    "react-easy-emoji": "1.8.1",
+    "react-headroom": "^3.2.1",
+    "react-reveal": "^1.2.2",
+    "react-typist": "^2.0.5",
+    "reactstrap": "^9.2.1",
+    "sharp": "^0.33.0"
+  },
+  "devDependencies": {
+    "eslint": "8.55.0",
+    "eslint-config-next": "14.0.3"
+  }
+}
